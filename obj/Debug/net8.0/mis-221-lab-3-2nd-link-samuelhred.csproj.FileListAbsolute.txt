@@ -1,0 +1,15 @@
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/obj/Debug/net8.0/mis-221-lab-3-2nd-link-samuelhred.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/obj/Debug/net8.0/mis-221-lab-3-2nd-link-samuelhred.AssemblyInfoInputs.cache
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/obj/Debug/net8.0/mis-221-lab-3-2nd-link-samuelhred.AssemblyInfo.cs
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/obj/Debug/net8.0/mis-221-lab-3-2nd-link-samuelhred.csproj.CoreCompileInputs.cache
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/obj/Debug/net8.0/mis-221-lab-3-2nd-link-samuelhred.sourcelink.json
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/bin/Debug/net8.0/mis-221-lab-3-2nd-link-samuelhred
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/bin/Debug/net8.0/mis-221-lab-3-2nd-link-samuelhred.deps.json
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/bin/Debug/net8.0/mis-221-lab-3-2nd-link-samuelhred.runtimeconfig.json
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/bin/Debug/net8.0/mis-221-lab-3-2nd-link-samuelhred.dll
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/bin/Debug/net8.0/mis-221-lab-3-2nd-link-samuelhred.pdb
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/obj/Debug/net8.0/mis-221-lab-3-2nd-link-samuelhred.dll
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/obj/Debug/net8.0/refint/mis-221-lab-3-2nd-link-samuelhred.dll
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/obj/Debug/net8.0/mis-221-lab-3-2nd-link-samuelhred.pdb
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/obj/Debug/net8.0/mis-221-lab-3-2nd-link-samuelhred.genruntimeconfig.cache
+/Users/samredelsheimer/Desktop/VS_CODE/221/Lab/mis-221-lab-3-2nd-link-samuelhred/obj/Debug/net8.0/ref/mis-221-lab-3-2nd-link-samuelhred.dll
